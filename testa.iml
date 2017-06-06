@@ -38,5 +38,69 @@
         </SOURCES>
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/lib/servlet-api.jar!/" />
+          <root url="jar://D:/lib/jstl-1.2.jar!/" />
+          <root url="jar://D:/lib/jsp-api-2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/src" />
+          <root url="file://$MODULE_DIR$/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/src" />
+          <root url="file://$MODULE_DIR$/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/src" />
+          <root url="file://$MODULE_DIR$/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/src" />
+          <root url="file://$MODULE_DIR$/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/src" />
+          <root url="file://$MODULE_DIR$/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/src" />
+          <root url="file://$MODULE_DIR$/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/src" />
+          <root url="file://$MODULE_DIR$/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/src" />
+          <root url="file://$MODULE_DIR$/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/src" />
+          <root url="file://$MODULE_DIR$/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/src" />
+          <root url="file://$MODULE_DIR$/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/src" />
+          <root url="file://$MODULE_DIR$/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/src" />
+          <root url="file://$MODULE_DIR$/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/src" />
+          <root url="file://$MODULE_DIR$/out/artifacts/testa_war_exploded/WEB-INF/lib/out/artifacts/testa_war_exploded/WEB-INF/lib/src" />
+          <root url="file://$MODULE_DIR$/out/artifacts/testa_war_exploded/WEB-INF/lib/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://D:/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://D:/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/lib/jackson-annotations-2.7.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/lib/jackson-core-2.7.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/lib/jackson-databind-2.7.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
