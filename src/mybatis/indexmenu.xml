@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!-- namespace的值就是dao接口的完整路劲，就这个demo而言namespace 就是userDao.java的完整路劲 -->
+<mapper namespace="com.test.dao.IndexMenuDao">
+    <!-- 这里的id就是接口中方法的名称 -->
+    <select id="selectId" resultType="int">
+        SELECT id FROM menu
+    </select>
+
+    <select id="getAll" resultMap="resultMap.indexMenu">
+        SELECT * FROM menu
+    </select>
+
+    <select id="getParentMenu" resultMap="resultMap.indexMenu">
+        SELECT * FROM menu WHERE parent_id=0 order by sort desc
+    </select>
+
+    <select id="getChildrenMenu" resultMap="resultMap.indexMenu" parameterType="java.util.Map">
+        SELECT * FROM menu WHERE parent_id=#{parentId} order by sort desc
+    </select>
+</mapper>

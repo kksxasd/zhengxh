@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!-- namespace的值就是dao接口的完整路劲，就这个demo而言namespace 就是userDao.java的完整路劲 -->
+<mapper namespace="com.test.dao.CardinfoDao">
+
+
+    <select id="getPhone" resultMap="resultMap.cardinfo">
+        SELECT id,photo,ver FROM cardinfo_copy
+    </select>
+
+    <update id="setPhoto">
+        UPDATE cardinfo_copy SET photo = #{photo} where id=1
+    </update>
+
+
+</mapper>

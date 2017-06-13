@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="resultMap">
+    <resultMap id="indexMenu" type="com.test.entity.IndexMenu">
+        <id column="id" property="id" jdbcType="BIGINT"/>
+        <id column="name" property="name" jdbcType="VARCHAR"/>
+        <id column="link" property="link" jdbcType="VARCHAR"/>
+        <id column="parent_id" property="parentId" jdbcType="BIGINT"/>
+        <id column="sort" property="sort" jdbcType="INTEGER"/>
+        <id column="create_by" property="createBy" jdbcType="VARCHAR"/>
+        <id column="create_time" property="createTime" jdbcType="TIMESTAMP"/>
+        <id column="modify_by" property="modifyBy" jdbcType="VARCHAR"/>
+        <id column="modify_time" property="modifyTime" jdbcType="TIMESTAMP"/>
+    </resultMap>
+
+    <resultMap id="cardinfo" type="com.test.entity.Cardinfo">
+        <id column="id" property="id" jdbcType="INTEGER"/>
+        <id column="photo" property="photo" jdbcType="BLOB"/>
+        <id column="ver" property="ver" jdbcType="INTEGER"/>
+    </resultMap>
+</mapper>
